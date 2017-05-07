@@ -1,5 +1,3 @@
-[gimmick:Theme (inverse: true)](cerulean)
-
 Kazuhisa NAKASHO
 ======================
  ![](nakasho.png)
