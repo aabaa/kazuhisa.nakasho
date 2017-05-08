@@ -1,5 +1,30 @@
-Contributions
+Research
 ====================
+
+Research interests
+--------------------
+- **Cryptography and network secutity**
+  - private set intersection (PSI)
+- **Formalized mathematics**
+  - group theory, functional analysis
+- **Image processing**
+  - Infrared image processing
+- **Signal processing**
+  - bed-monitoring system, vital signs monitoring for ballistocardiogram
+
+
+Projects
+--------------------
+- 2015 - now [ビッグデータ統合利活用推進のためのセキュリティ基盤技術の体系化](http://bigdata.comm.eng.osaka-u.ac.jp/) (CREST)
+  - 秘匿共通集合計算プロトコル(PSI)の実装
+- 2013 - now [Mizar project](http://www.mizar.org/project/)
+  - 形式化 (群，加群，関数解析など)
+  - [MML Reference](http://webmizar.cs.shinshu-u.ac.jp/mmlfe/current/)の開発
+- 2016 - 2017 間伐材と自律型極限計測センサを用いた土石流等の危険予測システムの研究 (JPJS)
+  - [土砂雪崩災害警報システム](http://www.akita-pu.ac.jp/robotics/research/%E8%AD%A6%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E5%9C%9F%E7%A0%82%E9%9B%AA%E5%B4%A9%E7%81%BD%E5%AE%B3%E8%AD%A6%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)
+- 2016 - 2017 複合センサを用いた地域型独居高齢者生活サポ－トシステムの研究開発 (SCOPE)
+  - [独居高齢者生活モニタリングシステムの研究](http://www.akita-pu.ac.jp/robotics/research/%E7%8B%AC%E5%B1%85%E9%AB%98%E9%BD%A2%E8%80%85%E7%94%9F%E6%B4%BB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E7%A0%94%E7%A9%B6)
+  - [非拘束センサによる離床行動予測モニタリングシステムの研究](http://www.akita-pu.ac.jp/robotics/research/%E7%8B%AC%E5%B1%85%E9%AB%98%E9%BD%A2%E8%80%85%E7%94%9F%E6%B4%BB%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E7%A0%94%E7%A9%B6/%E9%9D%9E%E6%8B%98%E6%9D%9F%E3%82%BB%E3%83%B3%E3%82%B5%E3%81%AB%E3%82%88%E3%82%8B%E9%9B%A2%E5%BA%8A%E8%A1%8C%E5%8B%95%E4%BA%88%E6%B8%AC%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B7)
 
 Journals
 --------------------
@@ -19,7 +44,7 @@ Journals
 14. Atsuko Miyaji, **Kazuhisa Nakasho**, Shohei Nishida: Privacy Preserving Integration of Medical Data - A Practical Multiparty Private Set Intersection. Journal of Medical Systems (2017) 41:37, DOI: 10.1007/s10916-016-0657-4, Springer.
 15. Nobuhiro Shimoi, Calros Cuadra, **Kazuhisa Nakasho**, Takuya Sasaki: Comparison of Fem Analysis and Actual Measurement for Destruction of Brick Masonry Specimen Using a Piezoelectric Limit Sensor. International Journal of Science and Engineering Investigation 5(55): 61-66 (2016), IJSEI. (***in press***)
 
-Proceedings of International Conferences
+Proceedings
 --------------------
 1. **Kazuhisa Nakasho**, Hiroyuki Okazaki, Hiroshi Yamazaki, Yasunari Shidama: Formalization of Fundamental Theorem of Finite Abelian Groups in Mizar.  6th Podlasie Conference on Mathematics. (ISBN 978-83-62582-58-7: 23-34).
 2. **Kazuhisa Nakasho**, Yasunari Shidama. Documentation Generator Focusing on Symbols for the HTML-ized Mizar Library. Conference on Intelligent Computer Mathematics 2015. System and Data track 5. Washington DC (USA). July 2015. (LNCS, vol. 9150, pp.343-347 Springer, Heidelberg (2015)).
@@ -32,7 +57,7 @@ Articles
 1. **中正和久**: Mizarと形式化数学ライブラリ（特集・コンピュータにできる数学・できない数学）. 数学セミナー 2015年11月号: 24-29, 日本評論社.
 2. 下井信浩，クアドラ カルロス，**中正和久**，間所洋和：ピエゾセンサを用いた木造構造物の振動解析．月刊超音波テクノ2017年4月号，日本工業出版(株).
 
-Presentations at Domestic Conferences
+Presentations
 --------------------
 1. **中正和久**，岡崎裕之，山崎浩，師玉康成： Mizarによる有限可換群の基本定理の形式化. 応用数理学会2013年度年会 数論アルゴリズムとその応用(2). 9039. 福岡市. 2013年9月.
 2. **中正和久**： Introduction to Mizar and Mathematical Knowledge Management. 第11回論理と計算セミナー. 九州大学. 2013年10月.
@@ -62,14 +87,6 @@ Awards
 5. 齋藤俊哉，和﨑克己，新村正明，間所洋和，**中正和久**，下井信浩：宅内ロボットと各種センサによる簡易モニタリングシステム．第６５回秋田県発明展 (公社)発明協会会長奨励賞．2016年11月．
 6. 鎌形拳，**中正和久**，下井信浩：自律移動ロボットのための電波式位置測定システム．第６５回秋田県発明展 秋田県電子工業振興協議会長賞．2016年11月．
 
-Press Releases
---------------------
-1. 下井信浩，**中正和久**： 土砂・雪崩災害警報システムの実装試験について．秋田県立大学 木材高度加工研究所．2016年9月15日. 
-2. 下井信浩，**中正和久**： 独居高齢者の事故を防止する為の見守りシステムの紹介．本荘由利産学共同研究センター．2016年11月15日. 
-3. 下井信浩，**中正和久**： 土砂・雪崩災害警報システムの実装現地公開について．秋田県能代市二ツ井町小繋字下小繋４１－７．2016年12月8日. 
-
-
 See Also
 --------------------
 - [DBLP](http://dblp.uni-trier.de/pers/hd/n/Nakasho:Kazuhisa)
-
