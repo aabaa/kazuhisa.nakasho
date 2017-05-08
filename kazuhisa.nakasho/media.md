@@ -3,10 +3,10 @@ Media
 
 Press Releases
 --------------------
-1. ‰ºˆäM_C**’†³˜a‹v**F “y»Eá•öÐŠQŒx•ñƒVƒXƒeƒ€‚ÌŽÀ‘•ŽŽŒ±‚É‚Â‚¢‚ÄDH“cŒ§—§‘åŠw –ØÞ‚“x‰ÁHŒ¤‹†ŠD2016”N9ŒŽ15“ú. 
-2. ‰ºˆäM_C**’†³˜a‹v**F “Æ‹‚—îŽÒ‚ÌŽ–ŒÌ‚ð–hŽ~‚·‚éˆ×‚ÌŒ©Žç‚èƒVƒXƒeƒ€‚ÌÐ‰îD–{‘‘—R—˜ŽYŠw‹¤“¯Œ¤‹†ƒZƒ“ƒ^[D2016”N11ŒŽ15“ú. 
-3. ‰ºˆäM_C**’†³˜a‹v**F “y»Eá•öÐŠQŒx•ñƒVƒXƒeƒ€‚ÌŽÀ‘•Œ»’nŒöŠJ‚É‚Â‚¢‚ÄDH“cŒ§”\‘ãŽs“ñƒcˆä’¬¬ŒqŽš‰º¬Œq‚S‚P|‚VD2016”N12ŒŽ8“ú. 
+1. ä¸‹äº•ä¿¡æµ©ï¼Œ**ä¸­æ­£å’Œä¹…**ï¼š åœŸç ‚ãƒ»é›ªå´©ç½å®³è­¦å ±ã‚·ã‚¹ãƒ†ãƒ ã®å®Ÿè£…è©¦é¨“ã«ã¤ã„ã¦ï¼Žç§‹ç”°çœŒç«‹å¤§å­¦ æœ¨æé«˜åº¦åŠ å·¥ç ”ç©¶æ‰€ï¼Ž2016å¹´9æœˆ15æ—¥. 
+2. ä¸‹äº•ä¿¡æµ©ï¼Œ**ä¸­æ­£å’Œä¹…**ï¼š ç‹¬å±…é«˜é½¢è€…ã®äº‹æ•…ã‚’é˜²æ­¢ã™ã‚‹ç‚ºã®è¦‹å®ˆã‚Šã‚·ã‚¹ãƒ†ãƒ ã®ç´¹ä»‹ï¼Žæœ¬è˜ç”±åˆ©ç”£å­¦å…±åŒç ”ç©¶ã‚»ãƒ³ã‚¿ãƒ¼ï¼Ž2016å¹´11æœˆ15æ—¥. 
+3. ä¸‹äº•ä¿¡æµ©ï¼Œ**ä¸­æ­£å’Œä¹…**ï¼š åœŸç ‚ãƒ»é›ªå´©ç½å®³è­¦å ±ã‚·ã‚¹ãƒ†ãƒ ã®å®Ÿè£…ç¾åœ°å…¬é–‹ã«ã¤ã„ã¦ï¼Žç§‹ç”°çœŒèƒ½ä»£å¸‚äºŒãƒ„äº•ç”ºå°ç¹‹å­—ä¸‹å°ç¹‹ï¼”ï¼‘ï¼ï¼—ï¼Ž2016å¹´12æœˆ8æ—¥. 
 
 Interviews
 --------------------
-1. [H“cŒ§—§‘åŠw ƒƒ{ƒbƒgHŠwŒ¤‹†ŽºwˆÀSˆÀ‘S‚Ì‚½‚ß‚ÌŒ©Žç‚èƒVƒXƒeƒ€x](http://proengineer.internous.co.jp/content/columnfeature/7193) 2017”N1ŒŽ.
+1. [ç§‹ç”°çœŒç«‹å¤§å­¦ ãƒ­ãƒœãƒƒãƒˆå·¥å­¦ç ”ç©¶å®¤ã€Žå®‰å¿ƒå®‰å…¨ã®ãŸã‚ã®è¦‹å®ˆã‚Šã‚·ã‚¹ãƒ†ãƒ ã€](http://proengineer.internous.co.jp/content/columnfeature/7193) 2017å¹´1æœˆ.
