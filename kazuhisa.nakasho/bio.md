@@ -3,6 +3,8 @@ Biography
 
 Career
 ----------------------
+- [Osaka University](http://www.osaka-u.ac.jp/)
+  - Assistant Professor (May 2017 - now)
 - [Akita Prefectural University](http://www.akita-pu.ac.jp/)
   - Specially Appointed Assistant Professor (April 2016 - April 2017)
 - [Elysium. Co., ltd.](http://www.elysium.co.jp/) (April 2003 - March 2013)
