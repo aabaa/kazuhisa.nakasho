@@ -42,7 +42,8 @@ Journals
 12. Nobuhiro Shimoi, Tetsuya Nishida, Akihiko Obata, **Kazuhisa Nakasho**, Hirokazu Madokoro, Carlos Cuadra: Comparison of Displacement Measurements in Exposed Type Column Base Using Piezoelectric Dynamic Sensors and Static Sensors. American Journal of Remote Sensing 4(5): 23-32 (October 2016), Science Publishing Group. 
 13. **Kazuhisa Nakasho**, Keiko Narita and Yasunari Shidama: The Basic Existence Theorem of Riemann-Stieltjes Integral. Formalized Mathematics 24(4): 253-259 (2016), De Gruyter.
 14. Atsuko Miyaji, **Kazuhisa Nakasho**, Shohei Nishida: Privacy Preserving Integration of Medical Data - A Practical Multiparty Private Set Intersection. Journal of Medical Systems (2017) 41:37, DOI: 10.1007/s10916-016-0657-4, Springer.
-15. Nobuhiro Shimoi, Calros Cuadra, **Kazuhisa Nakasho**, Takuya Sasaki: Comparison of Fem Analysis and Actual Measurement for Destruction of Brick Masonry Specimen Using a Piezoelectric Limit Sensor. International Journal of Science and Engineering Investigation 5(55): 61-66 (2016), IJSEI. (***in press***)
+15. Nobuhiro Shimoi, **Kazuhisa Nakasho**, Carlos Cuadra, Masahiro Saijo, Hirokazu Madokoro: Avalanche and Falling Rock Measurement Using Piezoelectric Dynamics and Static Sensors. American Journal of Remote Sensing 5(2): 10-15 (April 2017)
+16. Keiko Narita, **Kazuhisa Nakasho**, Yasunari Shidama: F. Riesz Theorem. Formalized Mathematics 25(3): xxx-xxx (2017). (***accepted***)
 
 Proceedings
 --------------------
@@ -50,33 +51,41 @@ Proceedings
 2. **Kazuhisa Nakasho**, Yasunari Shidama. Documentation Generator Focusing on Symbols for the HTML-ized Mizar Library. Conference on Intelligent Computer Mathematics 2015. System and Data track 5. Washington DC (USA). July 2015. (LNCS, vol. 9150, pp.343-347 Springer, Heidelberg (2015)).
 3. Takuya Sasaki, Calros Cuadra, Hirokazu Madokoro, **Kazuhisa Nakasho**, Nobuhiro Shimoi: Comparison of Piezoelectric Limit Sensors with FEM Analysis Results of Compression Failure of Brick Masonry Specimens. The 16th International Conference on Control, Automation and Systems.
 4. **Kazuhisa Nakasho**, Hirokazu Madokoro, Nobuhiro Shimoi: Implementation of a Vital Sings Monitoring System in Combination with a Bed-Leaving Prediction System. 2016 IEEE/SICE International Symposium on System Integration. (TuP2D.1 pp.290-295).
-5. Hirokazu Madokoro, Kazuhito Sato, **Kazuhisa Nakasho**, Nobuhiro Shimoi: Adaptive Learning Based Driving Episode Description on Category Maps. International Joint Conference on Neural Networks (IJCNN 2017). 2017年5月. (***accepted***)
+5. Hirokazu Madokoro, Kazuhito Sato, **Kazuhisa Nakasho**, Nobuhiro Shimoi: Adaptive Learning Based Driving Episode Description on Category Maps. International Joint Conference on Neural Networks (IJCNN 2017). (pp.3138-3145, DOI: 10.1109/IJCNN.2017.7966247, http://ieeexplore.ieee.org/document/7966247/). 2017年5月.
+6. Hirokazu Madokoro, Keigo Shirai, Kazuhito Sato, **Kazuhisa Nakasho**, Nobuhiro Shimoi: Context Based Semantic Scene Classification and Recognition Used for a Vision-Based Mobile Robot. the 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2017)
+7. Nobuhiro Shimoi, Carlos Cuadra, **Kazuhisa Nakasho**, Hirokazu Madokoro: Active Image Processing for Wooden Traditional Structure using IR Cameras. Advanced Infrared Technology and Application (AITA 2017).  (***accepted***)
+8. **Kazuhisa Nakasho**, Carlos Cuadra, Hirokazu Madokoro, Nobuhiro Shimoi: Infrared Thermography Applied for Robust Image Processing to Examine Historical Wooden Buildings. Advanced Infrared Technology and Application (AITA 2017). (***accepted***)
 
 Articles
 --------------------
 1. **中正和久**: Mizarと形式化数学ライブラリ（特集・コンピュータにできる数学・できない数学）. 数学セミナー 2015年11月号: 24-29, 日本評論社.
 2. 下井信浩，クアドラ カルロス，**中正和久**，間所洋和：ピエゾセンサを用いた木造構造物の振動解析．月刊超音波テクノ2017年4月号，日本工業出版(株).
+3. **中正和久**，齋藤俊哉，間所洋和，下井信浩: 複合センサを用いた高齢者向けベッドモニタリングシステムの改良．秋田県立大学ウェブジャーナルB．2017年10月. (***accepted***)
+
+Invited Presentations
+--------------------
+1. **中正和久**： Introduction to Mizar and Mathematical Knowledge Management. 第11回論理と計算セミナー. 九州大学. 2013年10月.
+2. **中正和久**： Mizarライブラリにおける検索・閲覧技術の研究．TSSS(Tsukuba Software Science Seminar) 2015-5．筑波大学．2015年6月．
 
 Presentations
 --------------------
 1. **中正和久**，岡崎裕之，山崎浩，師玉康成： Mizarによる有限可換群の基本定理の形式化. 応用数理学会2013年度年会 数論アルゴリズムとその応用(2). 9039. 福岡市. 2013年9月.
-2. **中正和久**： Introduction to Mizar and Mathematical Knowledge Management. 第11回論理と計算セミナー. 九州大学. 2013年10月.
-3. **中正和久**，岡崎裕之，山崎浩，師玉康成： Mizarによる有限可換群の基本定理の形式化. 9th Theorem Proving and Provers Meeting. session 4. 信州大学. 2013年11月.
-4. **中正和久**： Mizar環境部改良ツールの紹介. the Winter 2013 Technical Symposium and General Assembly of Mizar Japan. Presentation 3. 信州大学. 2014年1月.
-5. **中正和久**，岡崎裕之，山崎浩，師玉康成： Mizarによる群の直和分解の形式化. 10th Theorem Proving and Provers Meeting. session 6. 九州大学. 2014年12月.
-6. **中正和久**： Mizarライブラリにおける検索・閲覧技術の研究．TSSS(Tsukuba Software Science Seminar) 2015-5．筑波大学．2015年6月．
-7. **中正和久**： MizarライブラリのHTMLリファレンス生成ツールについて. 11th Theorem Proving and Provers Meeting. session 7. 神奈川大学. 2015年9月.
-8. 鎌形拳，野田茂宏，**中正和久**，下井信浩： 自律移動ロボットの自己位置推定手法に関する基礎検討．計測自動制御学会東北支部 第303回研究集会 303-4. 秋田県立大学. 2016年7月．
-9. 佐々木拓哉，Calros Cuadra，間所洋和，**中正和久**，下井信浩： 組積煉瓦壁の圧縮破壊試験とFEM解析による簡易ピエゾ計測センサの性能評価．計測自動制御学会東北支部 第303回研究集会 303-5. 秋田県立大学. 2016年7月．
-10. 西村旭正，佐々木拓哉，**中正和久**，下井信浩： 落石検知システムに用いるピエゾ極限センサの基本特性試験．計測自動制御学会東北支部 第303回研究集会 303-8. 秋田県立大学. 2016年7月．
-11. 齋藤俊哉，間所洋和，**中正和久**，下井信浩： ピエゾセンサを用いたベッドモニタリングシステムのセンサ配置に関する研究. LIFE2016. 3P1-D02. 東北大学. 2016年9月．
-12. **中正和久**，間所洋和，齋藤俊哉，下井信浩： 枕・ベッド内蔵センサによる見守りシ ステムのデータ解析について. LIFE2016. 3P1-D04. 東北大学. 2016年9月． 
-13. 下井信浩，間所洋和，**中正和久**, 和崎克己： 枕センサとピエゾ荷重センサを用いたベッドモニタリング. LIFE2016. 3P1-D08. 東北大学. 2016年9月． 
-14. **中正和久**： 簡易ロボットによる独居高齢者の安心安全のための見守りシステム．第一回ロボデックス ロボット開発活用展 産学連携ロボットフォーラム．東京ビッグサイト．2017年1月．
-15. 鎌形拳，**中正和久**，石井雅樹：自律移動のための電波マーカーを用いた自己位置推定手法．平成29年電気学会全国大会．3-084．富山大学．2017年3月．
-16. 佐々木拓哉，**中正和久**，石井雅樹，下井信浩：組積造構造物のヘルスモニタリングに用いる簡易ピエゾ計測センサの性能評価．平成29年電気学会全国大会．3-099．富山大学．2017年3月．
-17. **中正和久**, 間所洋和，齋藤俊哉，下井信浩： 枕内蔵型ピエゾセンサによる生体情報モニタリング．2017年電子情報通信学会総合大会．H-4-5．名城大学．2017年3月．
-18. 齋藤俊哉，間所洋和，**中正和久**，下井信浩： 離床予測のための姿勢判定アルゴリズム比較検討．2017年電子情報通信学会総合大会．H-4-6．名城大学．2017年3月．
+2. **中正和久**，岡崎裕之，山崎浩，師玉康成： Mizarによる有限可換群の基本定理の形式化. 9th Theorem Proving and Provers Meeting. session 4. 信州大学. 2013年11月.
+3. **中正和久**： Mizar環境部改良ツールの紹介. the Winter 2013 Technical Symposium and General Assembly of Mizar Japan. Presentation 3. 信州大学. 2014年1月.
+4. **中正和久**，岡崎裕之，山崎浩，師玉康成： Mizarによる群の直和分解の形式化. 10th Theorem Proving and Provers Meeting. session 6. 九州大学. 2014年12月.
+5. **中正和久**： MizarライブラリのHTMLリファレンス生成ツールについて. 11th Theorem Proving and Provers Meeting. session 7. 神奈川大学. 2015年9月.
+6. 鎌形拳，野田茂宏，**中正和久**，下井信浩： 自律移動ロボットの自己位置推定手法に関する基礎検討．計測自動制御学会東北支部 第303回研究集会 303-4. 秋田県立大学. 2016年7月．
+7. 佐々木拓哉，Calros Cuadra，間所洋和，**中正和久**，下井信浩： 組積煉瓦壁の圧縮破壊試験とFEM解析による簡易ピエゾ計測センサの性能評価．計測自動制御学会東北支部 第303回研究集会 303-5. 秋田県立大学. 2016年7月．
+8. 西村旭正，佐々木拓哉，**中正和久**，下井信浩： 落石検知システムに用いるピエゾ極限センサの基本特性試験．計測自動制御学会東北支部 第303回研究集会 303-8. 秋田県立大学. 2016年7月．
+9. 齋藤俊哉，間所洋和，**中正和久**，下井信浩： ピエゾセンサを用いたベッドモニタリングシステムのセンサ配置に関する研究. LIFE2016. 3P1-D02. 東北大学. 2016年9月．
+10. **中正和久**，間所洋和，齋藤俊哉，下井信浩： 枕・ベッド内蔵センサによる見守りシ ステムのデータ解析について. LIFE2016. 3P1-D04. 東北大学. 2016年9月． 
+11. 下井信浩，間所洋和，**中正和久**, 和崎克己： 枕センサとピエゾ荷重センサを用いたベッドモニタリング. LIFE2016. 3P1-D08. 東北大学. 2016年9月． 
+12. **中正和久**： 簡易ロボットによる独居高齢者の安心安全のための見守りシステム．第一回ロボデックス ロボット開発活用展 産学連携ロボットフォーラム．東京ビッグサイト．2017年1月．
+13. 鎌形拳，**中正和久**，石井雅樹：自律移動のための電波マーカーを用いた自己位置推定手法．平成29年電気学会全国大会．3-084．富山大学．2017年3月．
+14. 佐々木拓哉，**中正和久**，石井雅樹，下井信浩：組積造構造物のヘルスモニタリングに用いる簡易ピエゾ計測センサの性能評価．平成29年電気学会全国大会．3-099．富山大学．2017年3月．
+15. **中正和久**, 間所洋和，齋藤俊哉，下井信浩： 枕内蔵型ピエゾセンサによる生体情報モニタリング．2017年電子情報通信学会総合大会．H-4-5．名城大学．2017年3月．
+16. 齋藤俊哉，間所洋和，**中正和久**，下井信浩： 離床予測のための姿勢判定アルゴリズム比較検討．2017年電子情報通信学会総合大会．H-4-6．名城大学．2017年3月．
+17. 新村正明，**中正和久**，和崎克己，下井信浩： 高齢者見守りネットワークのための宅内センサデータ処理手法の設計と実装．第55回ユビキタスコンピューティングシステム・第9回高齢社会デザイン合同研究発表会．Vol.2017-ASD-9 No.7．名古屋大学．2017年8月．
 
 Awards
 --------------------
