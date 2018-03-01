@@ -3,10 +3,10 @@ Research
 
 Research interests
 --------------------
-- **Cryptography and network secutity**
-  - private set intersection (PSI)
 - **Formalized mathematics**
   - group theory, functional analysis
+- **Cryptography and network secutity**
+  - private set intersection (PSI)
 - **Image processing**
   - Infrared image processing
 - **Signal processing**
@@ -28,7 +28,8 @@ Projects
 
 Journals
 --------------------
-16. Keiko Narita, **Kazuhisa Nakasho**, Yasunari Shidama: F. Riesz Theorem. Formalized Mathematics 25(3): xxx-xxx (2017). (***accepted***)
+17. **Kazuhisa Nakasho**, Yasunari Futa, Yasunari Shidama: Implicit function theorem - part I. Formalized Mathematics 25(4): 269-282 (2017). accepted.
+16. Keiko Narita, **Kazuhisa Nakasho**, Yasunari Shidama: F. Riesz Theorem. Formalized Mathematics 25(3): 179-184 (2017).
 15. Nobuhiro Shimoi, **Kazuhisa Nakasho**, Carlos Cuadra, Masahiro Saijo, Hirokazu Madokoro: Avalanche and Falling Rock Measurement Using Piezoelectric Dynamics and Static Sensors. American Journal of Remote Sensing 5(2): 10-15 (April 2017)
 14. Atsuko Miyaji, **Kazuhisa Nakasho**, Shohei Nishida: Privacy Preserving Integration of Medical Data - A Practical Multiparty Private Set Intersection. Journal of Medical Systems (2017) 41:37, DOI: 10.1007/s10916-016-0657-4, Springer.
 13. **Kazuhisa Nakasho**, Keiko Narita and Yasunari Shidama: The Basic Existence Theorem of Riemann-Stieltjes Integral. Formalized Mathematics 24(4): 253-259 (2016), De Gruyter.
@@ -48,8 +49,9 @@ Journals
 
 Proceedings
 --------------------
-8. **Kazuhisa Nakasho**, Carlos Cuadra, Hirokazu Madokoro, Nobuhiro Shimoi: Infrared Thermography Applied for Robust Image Processing to Examine Historical Wooden Buildings. Advanced Infrared Technology and Application (AITA 2017). (***accepted***)
-7. Nobuhiro Shimoi, Carlos Cuadra, **Kazuhisa Nakasho**, Hirokazu Madokoro: Active Image Processing for Wooden Traditional Structure using IR Cameras. Advanced Infrared Technology and Application (AITA 2017).  (***accepted***)
+9. Hirokazu Madokoro, Kazuhito Sato, **Kazuhisa Nakasho**, and Nobuhiro Shimoi: Unsupervised Learning-based Semantic Scene Recognition and Boundary Visualization on Category Maps. 2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob) pp.350-355.
+8. **Kazuhisa Nakasho**, Carlos Cuadra, Hirokazu Madokoro, Nobuhiro Shimoi: Infrared Thermography Applied for Robust Image Processing to Examine Historical Wooden Buildings. Advanced Infrared Technology and Application (AITA 2017) pp.104-107.
+7. Nobuhiro Shimoi, Carlos Cuadra, **Kazuhisa Nakasho**, Hirokazu Madokoro: Active Image Processing for Wooden Traditional Structure using IR Cameras. Advanced Infrared Technology and Application (AITA 2017) pp.113-116.
 6. Hirokazu Madokoro, Keigo Shirai, Kazuhito Sato, **Kazuhisa Nakasho**, Nobuhiro Shimoi: Context Based Semantic Scene Classification and Recognition Used for a Vision-Based Mobile Robot. the 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2017)
 5. Hirokazu Madokoro, Kazuhito Sato, **Kazuhisa Nakasho**, Nobuhiro Shimoi: Adaptive Learning Based Driving Episode Description on Category Maps. International Joint Conference on Neural Networks (IJCNN 2017). (pp.3138-3145, DOI: 10.1109/IJCNN.2017.7966247, http://ieeexplore.ieee.org/document/7966247/). 2017年5月.
 4. **Kazuhisa Nakasho**, Hirokazu Madokoro, Nobuhiro Shimoi: Implementation of a Vital Sings Monitoring System in Combination with a Bed-Leaving Prediction System. 2016 IEEE/SICE International Symposium on System Integration. (TuP2D.1 pp.290-295).
@@ -70,6 +72,7 @@ Invited speaks
 
 Presentations
 --------------------
+18. 宮地充子，**中正和久**，河内亮周：プライバシを保護した多機関データ突合システムについて．JAMI 第37回医療情報学連合大会（第18回日本医療情報学会学術大会）．公募企画シンポジウム6 安心・安全なビッグデータの流通プラットホームとセキュリティ基盤技術．グランフロント大阪．2017年11月．
 17. 新村正明，**中正和久**，和崎克己，下井信浩： 高齢者見守りネットワークのための宅内センサデータ処理手法の設計と実装．第55回ユビキタスコンピューティングシステム・第9回高齢社会デザイン合同研究発表会．Vol.2017-ASD-9 No.7．名古屋大学．2017年8月．
 16. 齋藤俊哉，間所洋和，**中正和久**，下井信浩： 離床予測のための姿勢判定アルゴリズム比較検討．2017年電子情報通信学会総合大会．H-4-6．名城大学．2017年3月．
 15. **中正和久**, 間所洋和，齋藤俊哉，下井信浩： 枕内蔵型ピエゾセンサによる生体情報モニタリング．2017年電子情報通信学会総合大会．H-4-5．名城大学．2017年3月．

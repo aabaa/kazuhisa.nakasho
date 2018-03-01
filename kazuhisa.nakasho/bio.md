@@ -3,8 +3,10 @@ Biography
 
 Career
 ----------------------
+- [Yamaguchi University](http://www.yamaguchi-u.ac.jp/)
+  - Associate Professor (March 2018 - now)
 - [Osaka University](http://www.osaka-u.ac.jp/)
-  - Assistant Professor (May 2017 - now)
+  - Assistant Professor (May 2017 - February 2018)
 - [Akita Prefectural University](http://www.akita-pu.ac.jp/)
   - Specially Appointed Assistant Professor (April 2016 - April 2017)
 - [Elysium. Co., ltd.](http://www.elysium.co.jp/) (April 2003 - March 2013)

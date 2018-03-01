@@ -4,23 +4,23 @@ Kazuhisa NAKASHO
 
 Affiliation
 ---------------------
-[Cyber Security Engineering Area](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/)  
-[Department of Information and Communications Technology](http://www.eei.eng.osaka-u.ac.jp/laboratory/list02.html)  
-[Division of Electrical, Electronic and Information Engineering](http://www.eei.eng.osaka-u.ac.jp/)  
-[Graduate School of Engineering, Osaka University](http://www.eng.osaka-u.ac.jp/)  
+[Division of Information Science & Engineering](http://www.csse.yamaguchi-u.ac.jp/)
+[Faculty of Engineering](http://www.eng.yamaguchi-u.ac.jp/)
+[Graduate School of Science & Technology for Innovation](http://www.gsti.yamaguchi-u.ac.jp/)
+[Yamaguchi University](http://www.yamaguchi-u.ac.jp/)
 
 Position
 ---------------------
-- Assistant Professor (May 2017 - )
+- Associate Professor (March 2018 - )
 
 Contact
 ----------------------
-- **Address** : 2-1 Yamadaoka, Suita, Osaka, 565-0871, Japan
-- **Email** :  nakasho [at] comm.eng.osaka-u.ac.jp
-- **TEL** : +81-6-6879-4179
+- **Address** :2-16-1 Tokiwa-dai, Ube, Yamaguchi, 755-8611, Japan
+- **Email** :  nakasho [at] yamaguchi-u.ac.jp
+- **TEL** : +81-836-85-9541
 
 Research interests
 ----------------------
-- Cryptography and network security
 - Formalized mathematics
+- Cryptography and network security
 - Signal processing and Image processing
