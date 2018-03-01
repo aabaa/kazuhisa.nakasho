@@ -21,6 +21,6 @@ Contact
 
 Research interests
 ----------------------
-- Formalized mathematics
+- Formalized mathematics, Proof assistant
 - Cryptography and network security
 - Signal processing and Image processing
