@@ -2,9 +2,5 @@
 
 # Kazuhisa NAKASHO
 
-[Home](index.md)
-[Bio](bio.md)
-[Research](research.md)
-[Teaching](teaching.md)
-[Media](media.md)
-[Software](software.md)
+[Japanese](index.md)
+[English](index-en.md)

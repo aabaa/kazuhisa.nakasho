@@ -1,26 +1,31 @@
-Kazuhisa NAKASHO
+中正 和久 (なかしょう かずひさ)
 ======================
 ![](nakasho.jpg)
 
-Affiliation
+所属
 ---------------------
-[Division of Information Science & Engineering](http://www.csse.yamaguchi-u.ac.jp/)
-[Faculty of Engineering](http://www.eng.yamaguchi-u.ac.jp/)
-[Graduate School of Science & Technology for Innovation](http://www.gsti.yamaguchi-u.ac.jp/)
-[Yamaguchi University](http://www.yamaguchi-u.ac.jp/)
+[山口大学](http://www.yamaguchi-u.ac.jp/) [大学院創成科学研究科](http://www.gsti.yamaguchi-u.ac.jp/) [工学系学域](http://www.eng.yamaguchi-u.ac.jp/) [知能情報工学分野](http://www.csse.yamaguchi-u.ac.jp/) 准教授
 
-Position
----------------------
-- Associate Professor (March 2018 - )
-
-Contact
+連絡先
 ----------------------
-- **Address** :2-16-1 Tokiwa-dai, Ube, Yamaguchi, 755-8611, Japan
-- **Email** :  nakasho [at] yamaguchi-u.ac.jp
-- **TEL** : +81-836-85-9541
+住所 : 〒755-8611 山口県宇部市常盤台2-16-1
+メール :  nakasho [at] yamaguchi-u.ac.jp
+電話 : 0836-85-9541
 
-Research interests
+研究テーマ
 ----------------------
-- Formalized mathematics, Proof assistant
-- Cryptography and network security
-- Signal processing and Image processing
+形式化数学，定理証明支援系，ソフトウェア工学
+信号処理，画像処理
+暗号セキュリティ
+
+その他
+----------------------
+身長 168cm, 体重 57kg (昨年比 +2kg)
+スキーとランニングが好き
+海より山派，犬より猫派
+ロングスリーパー気味
+
+詳細情報
+----------------------
+[researchmap](https://researchmap.jp/kazuhisa.nakasho)
+[DBLP](http://dblp.uni-trier.de/pers/hd/n/Nakasho:Kazuhisa)
