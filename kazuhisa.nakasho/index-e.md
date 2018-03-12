@@ -2,14 +2,19 @@ Kazuhisa NAKASHO
 ======================
 ![](nakasho.jpg)
 
+Basic Information
+---------------------
+Birthday：Nov. 7th, 1978
+Native place：Kawachi-nagano, Osaka, Japan
+Height: 168cm, Weight: 57kg (increased by +2kg over last year)
+
 Affiliation
 ---------------------
 Associate Professor,
 [Division of Information Science & Engineering](http://www.csse.yamaguchi-u.ac.jp/),
 [Faculty of Engineering](http://www.eng.yamaguchi-u.ac.jp/),
- [Graduate School of Science & Technology for Innovation](http://www.gsti.yamaguchi-u.ac.jp/),
+[Graduate School of Science & Technology for Innovation](http://www.gsti.yamaguchi-u.ac.jp/),
 [Yamaguchi University](http://www.yamaguchi-u.ac.jp/)
-
 
 Contact
 ----------------------
@@ -23,14 +28,22 @@ Formalized mathematics, Proof assistant, Software engineering
 Signal processing and Image processing
 Cryptography and network security
 
+Lectures
+----------------------
+Introduction to IT Management（B1）
+Computer Language Processing（B2）
+System Planning I（B3）
+System Planning II（B3）
+Agile development method practice (B3, Basic PBL)
+Advanced Software Development Technique（M）
+
 Other Information
 ----------------------
-Height: 168cm, Weight: 57kg (increased by +2kg over last year)
 I love skiing and running.
 I like mountains / cats better than seas / dogs.
 I tend to sleep longer than others.
 
 For more details
 ----------------------
-[researchmap](https://researchmap.jp/kazuhisa.nakasho)
+[Researchmap](https://researchmap.jp/kazuhisa.nakasho)
 [DBLP](http://dblp.uni-trier.de/pers/hd/n/Nakasho:Kazuhisa)
