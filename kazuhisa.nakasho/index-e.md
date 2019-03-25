@@ -6,7 +6,7 @@ Basic Information
 ---------------------
 Birthday：Nov. 7th, 1978
 Native place：Kawachi-nagano, Osaka, Japan
-Height: 168cm, Weight: 57kg (increased by +2kg over last year)
+Height: 168cm, Weight: 57kg (increased by +0kg over last year)
 
 Affiliation
 ---------------------
@@ -30,7 +30,6 @@ Cryptography and network security
 
 Lectures
 ----------------------
-Introduction to IT Management（B1）
 Computer Language Processing（B2）
 System Planning I（B3）
 System Planning II（B3）
