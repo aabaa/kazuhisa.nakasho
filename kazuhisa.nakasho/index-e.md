@@ -30,7 +30,7 @@ Cryptography and network security
 
 Lectures
 ----------------------
-Computer Language Processing（B2）
+Computer Language Processing（B3）
 System Planning I（B3）
 System Planning II（B3）
 Agile development method practice (B3, Basic PBL)
