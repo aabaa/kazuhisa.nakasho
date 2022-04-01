@@ -30,7 +30,7 @@ Cryptography and network security
 
 Lectures
 ----------------------
-Applied Information Mathematics I (B2)
+Applied Information Mathematics (B2)
 System Planning I（B3）
 System Planning II（B3）
 Computer Language Processing（B3）
