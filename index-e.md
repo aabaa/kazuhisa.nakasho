@@ -6,7 +6,7 @@ Basic Information
 ---------------------
 Birthday：Nov. 7th, 1978
 Native place：Kawachi-nagano, Osaka, Japan
-Height: 168cm, Weight: 57kg (increased by +0kg over last year)
+Height: 168cm, Weight: 59kg (increased by +2kg over last year)
 
 Affiliation
 ---------------------
