@@ -6,7 +6,7 @@ Basic Information
 ---------------------
 Birthday：Nov. 7th, 1978
 Native place：Kawachi-nagano, Osaka, Japan
-Height: 168cm, Weight: 59kg (increased by +2kg over last year)
+Height: 168cm, Weight: 57kg (decreased by -2kg over last year)
 
 Affiliation
 ---------------------
@@ -18,23 +18,22 @@ Associate Professor,
 
 Contact
 ----------------------
-Address :2-16-1 Tokiwa-dai, Ube, Yamaguchi, 755-8611, Japan
-Email :  nakasho [at] yamaguchi-u.ac.jp
+Address : 2-16-1 Tokiwa-dai, Ube, Yamaguchi, 755-8611, Japan
+Email : nakasho [at] yamaguchi-u.ac.jp
 TEL : +81-836-85-9541
 
 Research interests
 ----------------------
 Formalized mathematics, Proof assistant, Software engineering
-Signal processing and Image processing
+Signal processing and Image processing, Educational software
 Cryptography and network security
 
 Lectures
 ----------------------
 Applied Information Mathematics (B2)
-System Planning I（B3）
-System Planning II（B3）
-Computer Language Processing（B3）
-Advanced Software Development Technique（M）
+System Development I（B3）
+System Development II（B3）
+DX Technology（M）
 
 Other Information
 ----------------------
