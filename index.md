@@ -6,30 +6,34 @@
 ---------------------
 生年月日：1978年11月7日
 出身地：大阪府 河内長野市
-身長 168cm, 体重 57kg (昨年比 -2kg)
+身長 168cm, 体重 61kg (昨年比 +4kg)
 
 所属
 ---------------------
-[山口大学](http://www.yamaguchi-u.ac.jp/) [大学院創成科学研究科](http://www.gsti.yamaguchi-u.ac.jp/) [工学系学域](http://www.eng.yamaguchi-u.ac.jp/) [知能情報工学分野](http://www.csse.yamaguchi-u.ac.jp/) 准教授
+[岩手県立大学](https://www.iwate-pu.ac.jp/) [ソフトウェア情報学部](https://www.soft.iwate-pu.ac.jp/) 准教授
+[山口大学](http://www.yamaguchi-u.ac.jp/) [工学部](https://www.yamaguchi-u.ac.jp/eng/index.html) [知能情報工学科](http://www.csse.yamaguchi-u.ac.jp/) 非常勤講師
 
 連絡先
 ----------------------
-住所 : 〒755-8611 山口県宇部市常盤台2-16-1
-メール :  nakasho [at] yamaguchi-u.ac.jp
-電話 : 0836-85-9541
+住所 : 〒020-0611 岩手県滝沢市巣子152-52
+メール :  nakasho_k [at] iwate-pu.ac.jp
+電話 : 019-694-2624
 
 研究テーマ
 ----------------------
 形式化数学，定理証明支援系，ソフトウェア工学
-信号処理，画像処理, 教育向けソフトウェア
+社会実装，信号処理，画像処理, 教育向けソフトウェア，ロボティクス
 暗号セキュリティ
 
 担当講義
 ----------------------
-応用情報数学（2年前期）
-システム開発Ⅰ（3年前期）
-システム開発Ⅱ（3年後期）
-DX技術（博士前期課程 第2クオーター）
+岩手県立大学
+  - プロジェクト演習Ⅰ（2年後期）
+  - プロジェクト演習Ⅱ（3年後期）
+山口大学
+  - 応用情報数学（2年前期）
+  - システム開発Ⅰ（3年前期）
+  - システム開発Ⅱ（3年後期）
 
 その他
 ----------------------
@@ -41,4 +45,3 @@ DX技術（博士前期課程 第2クオーター）
 ----------------------
 [Researchmap](https://researchmap.jp/kazuhisa.nakasho)
 [DBLP](http://dblp.uni-trier.de/pers/hd/n/Nakasho:Kazuhisa)
-[研究室HP](http://www.hrs.csse.yamaguchi-u.ac.jp/index.html)
