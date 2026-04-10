@@ -6,7 +6,7 @@ Basic Information
 ---------------------
 Birthday：Nov. 7th, 1978
 Native place：Kawachi-nagano, Osaka, Japan
-Height: 168cm, Weight: 61kg (increased by +4kg over last year 🥺)
+Height: 168cm, Weight: 61kg
 
 Affiliation
 ---------------------
@@ -29,13 +29,12 @@ Cryptography and network security
 Lectures
 ----------------------
 Iwate Prefectural University
-  - Group Project Practice I (B2)
-  - Group Project Practice II（B3）
-Yamaguchi University
-  - Applied Information Mathematics (B2)
-  - System Development I（B3）
-  - System Development II（B3）
-
+  - Career Design I (B2)
+  - Fundamentals of Information SystemsⅡ (B2)
+  - Software Engineering (B2)
+  - Introduction to General Education II・Group Project Practice I/II (B1/B2/B3)
+  - Social Presentation (M)
+  
 Other Information
 ----------------------
 I love skiing and running.
